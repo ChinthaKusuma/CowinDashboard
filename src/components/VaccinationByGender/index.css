@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.bg3 {
+  color: white;
+  background-color: #1c1c2b;
+  box-shadow: 4px 4px 4px 4px #1c1c2b;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+}

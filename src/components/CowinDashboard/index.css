@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.para {
+  color: #2cc6c6;
+}
+.one {
+  display: flex;
+}
+.container1 {
+  background-color: black;
+  min-height: 100vh;
+  padding: 20px;
+}
+.img1 {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+.para1 {
+  color: white;
+}
+.con2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.con31 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60vh;
+}
